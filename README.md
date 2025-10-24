@@ -1,5 +1,5 @@
 # MPMC_SKILL-ASSESSMENT2
-
+# GENERATE A 5 SECOND DELAY USING TIMER0 IN MODE1 AND TOGGLE PORT 2.7 CONTINUOUSLY
 ## AIM
 To write an Assembly language program in 8051 to generate a 5 second delay using Timer 0 (Mode 1) and continuously toggle bit P2.7.
 ``
@@ -86,6 +86,7 @@ END
 ## RESULT
 
 The program is successfully assembled and executed in Keil µVision.
+
 After simulation:
 
 Port 2.7 (P2.7) of the 8051 microcontroller toggles its state every 5 seconds.
@@ -93,4 +94,5 @@ Port 2.7 (P2.7) of the 8051 microcontroller toggles its state every 5 seconds.
 This means the bit P2.7 changes from 0 → 1 → 0 → 1... continuously, creating a square wave with a period of 10 seconds (5s ON + 5s OFF).
 
 Hence, the output is a continuous toggling of P2.7 every 5 seconds.
+
 ---
