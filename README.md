@@ -76,7 +76,7 @@ END
 ```
 ## OUTPUT
 
-<img width="1920" height="1200" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/2e466d1d-716c-4875-a626-0ce8a37974f2" />
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/b31f0adb-a0e9-4770-88cd-c493f116a2aa" />
 
 
 
